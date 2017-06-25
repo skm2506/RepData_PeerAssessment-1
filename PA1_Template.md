@@ -97,11 +97,10 @@ library(lattice)
 xyplot(steps~interval|factor(day),data=stepsInterval2,aspect=1/2,type="l")
 ```
 
-<! read.md is generated from the READ.RMD. Please edit the file.-->
+<! READ.MD is generated from the READ.RMD. Please edit the file.-->
 
 ```{r opts, echo=TRUE}
-knitr::opts_chunk$set(fig.path = "Images/"
-                      )
+knitr::opts_chunk$set(fig.path = "Images/")
 ```
 
 
